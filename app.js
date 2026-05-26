@@ -3,6 +3,7 @@ let greeting = "გამარჯობა";
 console.log(greeting);
 alert(greeting);
 
+
 // დავალება 1.1
 let counter = 22;
 counter ++;
